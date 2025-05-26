@@ -1,0 +1,42 @@
+commit 2e0d0f72b17ac586bf81e5a3f2d02295e7054b7b
+Merge: c8b9225 0b1c707
+Author: KinoshitaHaruto <241205064@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:12:27 2025 +0900
+
+    Merge branch 'main' of https://github.com/KinoshitaHaruto/kaihaturiterasi
+
+commit c8b9225f1670831f49cadc88e85ea49bacb0f3a8
+Author: KinoshitaHaruto <241205064@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:11:13 2025 +0900
+
+    update
+
+commit 0b1c707a712b59e155d969c5679df3b637009007
+Author: 木下　晴翔 <241205064@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:07:13 2025 +0900
+
+    Update tetris.js
+
+commit f6526ebbf2baeca48308a27c90d6096e6a0a27e6
+Author: KinoshitaHaruto <241205064@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 14:05:07 2025 +0900
+
+    update
+
+commit 9dc1b979be7471382dc0df9a3875c5543b63d6e8
+Author: KinoshitaHaruto <241205064@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 13:59:23 2025 +0900
+
+    ピースの色を変更
+
+commit 58454369cc9b5066dd56dabf8f4b0da88607ae7c
+Author: KinoshitaHaruto <241205064@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 13:55:40 2025 +0900
+
+    commit
+
+commit b47bf3a451c30dfe1681c52aef4b37f6704244ef
+Author: KinoshitaHaruto <241205064@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 26 13:45:57 2025 +0900
+
+    canvas tetoris import
